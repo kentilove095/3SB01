@@ -37,7 +37,7 @@ In the distant future, humanity has been driven to near-extinction by giant beas
 
 
 # 5. My Hero Academia
-![]()
+![](https://github.com/kentilove095/3SB01.github.io/blob/master/Picture/My-Hero-Academia-poster.jpg?raw=true)
 
 In a world where those with powers are known as "Quirks," Izuku Midoriya has aspirations to one day become a hero but there's a catch -- he isn't a Quirk. After a tragic accident involving his friend Katuski Bakugo; Midoriya is the only one to have stepped forward to help protect Bakugo from a villain, because of his acts, he is given a gift by the world's greatest hero, All Might. Now, Midoriya attends U.A. School--a school that cultivates the next generation of superheroes.
 
