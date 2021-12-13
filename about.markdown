@@ -1,18 +1,15 @@
 ---
 layout: page
 title: AboutMe
-permalink: /about/
+permalink: /aboutme/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Ariyawat Tohsen I'm studying at computer engineering faculty of engineering Prince of Songkla Univercity Hatyai campus this website will show you top 5 my favourite animes and movies for 240-302 3SB01
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Student-id: 6210110616
+- Age: 20
+- Birthdate: 27 June 2001 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![]()
 
 
-[jekyll-organization]: https://github.com/jekyll
