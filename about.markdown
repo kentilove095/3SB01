@@ -8,8 +8,11 @@ My name is Ariyawat Tohsen I'm studying at computer engineering faculty of engin
 
 - Student-id: 6210110616
 - Age: 20
-- Birthdate: 27 June 2001 
+- Birthdate: 27 June 2001
+- club: Environmental Conservation Club 
 
-![]()
+![](https://github.com/kentilove095/3SB01.github.io/blob/master/Picture/MainPic.JPG?raw=true)
 
-
+## **My Activities**
+- ค่ายนักอนุรักษ์สิ่งแวดล้อมครั้งที่ 25
+- ค่ายร่วมรวมใจสานสายใยพระบิดา 2563
