@@ -28,7 +28,17 @@ After the invasion of Japan by the Brittannian Empire, the country is renamed to
 
 
 # 4. Darling in the FranXX
+![](https://github.com/kentilove095/3SB01.github.io/blob/master/Picture/Darling-in-the-franxx.jpg?raw=true)
+
 
 In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations. Children raised here are trained to pilot giant mechas known as FranXX—the only weapons known to be effective against the Klaxosaurs—in boy-girl pairs. Bred for the sole purpose of piloting these machines, these children know nothing of the outside world and are only able to prove their existence by defending their race.
 
 [watch Now!!](https://www.netflix.com/th/title/81010668)
+
+
+# 5. My Hero Academia
+![]()
+
+In a world where those with powers are known as "Quirks," Izuku Midoriya has aspirations to one day become a hero but there's a catch -- he isn't a Quirk. After a tragic accident involving his friend Katuski Bakugo; Midoriya is the only one to have stepped forward to help protect Bakugo from a villain, because of his acts, he is given a gift by the world's greatest hero, All Might. Now, Midoriya attends U.A. School--a school that cultivates the next generation of superheroes.
+
+[watch Now!!](https://www.netflix.com/th/title/80135674)
