@@ -25,7 +25,14 @@ The story of Copp (Leonardo DiCaprio), a professional thief. The Ultimate Danger
 
 
 # 4. Catch Me If You Can
-![]
+![](https://github.com/kentilove095/3SB01.github.io/blob/master/Picture/catchmeifucan.jpg?raw=true)
 Frank W. Abanel worked as a doctor, lawyer and co-pilot for a major airline. All this he did Prior to his 21st birthday, he was also one of the 18 Crowns, a scammer in check cheating. It earned him millions of dollars. FBI Detective Carl Hunratty, determined and patient. have an important mission in the arrest of Frank and brought him to court but Frank always takes him one step further.
 
 [watch now!!](https://www.netflix.com/th/title/60024942)
+
+
+# 5. The Truman Show
+![]()
+Truman is a man whose life is a fake one. The place he lives is, in fact, a big studio with hidden cameras everywhere, and all his friends and people around him, are actors who play their roles in the most popular TV-series in the world: The Truman Show. Truman thinks that he is an ordinary man with an ordinary life and has no idea about how he is exploited. Until one day he finds out everything. Will he react?
+
+[watch now!!](https://itunes.apple.com/th/movie/the-truman-show/id311726400?l=th)
