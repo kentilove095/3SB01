@@ -32,7 +32,7 @@ Frank W. Abanel worked as a doctor, lawyer and co-pilot for a major airline. All
 
 
 # 5. The Truman Show
-![]()
+![](https://github.com/kentilove095/3SB01.github.io/blob/master/Picture/Truman-Show.jpg?raw=true)
 Truman is a man whose life is a fake one. The place he lives is, in fact, a big studio with hidden cameras everywhere, and all his friends and people around him, are actors who play their roles in the most popular TV-series in the world: The Truman Show. Truman thinks that he is an ordinary man with an ordinary life and has no idea about how he is exploited. Until one day he finds out everything. Will he react?
 
 [watch now!!](https://itunes.apple.com/th/movie/the-truman-show/id311726400?l=th)
